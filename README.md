@@ -18,7 +18,8 @@ Pointers to Causal Inference
 * [Causality Chapter 9 of PATTERNS, PREDICTIONS, AND ACTIONS A story about machine learning by Moritz Hardt and Benjamin Recht](https://mlstory.org/causal.html)
 * [Causal Inference in Practice Chapter 10 of PATTERNS, PREDICTIONS, AND ACTIONS A story about machine learning by Moritz Hardt and Benjamin Recht](https://mlstory.org/causal-practice.html)
 
-* 
+* [Regression and Other Stories by Andrew Gelman, Jennifer Hill, and Aki Vehtari](https://avehtari.github.io/ROS-Examples/)
+ 
 
   
 
