@@ -6,7 +6,7 @@ Pointers to Causal Inference
 ## Courses
 
 * [Causal Salad by Richard Mcelreath](https://github.com/rmcelreath/causal_salad_2021)
-* [Causal Inference by Brady Neal](https://www.youtube.com/channel/UCbOJ2eEdvf2wOPrAmA72Gzg)
+* [Causal Inference by Brady Neal](https://www.bradyneal.com/causal-inference-course), [videos](https://www.youtube.com/channel/UCbOJ2eEdvf2wOPrAmA72Gzg)
 
 
 
@@ -19,7 +19,8 @@ Pointers to Causal Inference
 * [Causal Inference in Practice Chapter 10 of PATTERNS, PREDICTIONS, AND ACTIONS A story about machine learning by Moritz Hardt and Benjamin Recht](https://mlstory.org/causal-practice.html)
 
 * [Regression and Other Stories by Andrew Gelman, Jennifer Hill, and Aki Vehtari](https://avehtari.github.io/ROS-Examples/)
- 
+* [Introduction to Causal Inference by Brady Neal](https://www.bradyneal.com/Introduction_to_Causal_Inference-Sep1_2020-Neal.pdf) 
+
 
   
 
