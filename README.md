@@ -22,6 +22,9 @@ Pointers to Causal Inference
 * [Introduction to Causal Inference by Brady Neal](https://www.bradyneal.com/Introduction_to_Causal_Inference-Sep1_2020-Neal.pdf) 
 
 
+## Notes
+
+* [Causal inference in statistics: An overview by Judea Pearl](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
   
 
 ## Misc
