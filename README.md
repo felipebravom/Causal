@@ -21,6 +21,7 @@ Pointers to Causal Inference
 * [Regression and Other Stories by Andrew Gelman, Jennifer Hill, and Aki Vehtari](https://avehtari.github.io/ROS-Examples/)
 * [Introduction to Causal Inference by Brady Neal](https://www.bradyneal.com/Introduction_to_Causal_Inference-Sep1_2020-Neal.pdf) 
 
+* [ Causal Inference: The Mixtape by by Scott Cunningham](https://mixtape.scunning.com/)
 
 ## Notes
 
@@ -32,6 +33,7 @@ Pointers to Causal Inference
 
 * [Resolving disputes between J. Pearl and D. Rubin on causal inference](https://statmodeling.stat.columbia.edu/2009/07/05/disputes_about/)
 * [ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus](https://www.inference.vc/untitled/)
+* [Quora: Why is there a dispute between Judea Pearl and Rubin with respect to the theoretical frameworks used in causal modelling?](https://www.quora.com/Why-is-there-a-dispute-between-Judea-Pearl-and-Rubin-with-respect-to-the-theoretical-frameworks-used-in-causal-modelling)
   
   
   
