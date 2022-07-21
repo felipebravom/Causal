@@ -15,13 +15,14 @@ Pointers to Causal Inference
 * [The Book of Why: The New Science of Cause and Effect by Judea Pearl](http://bayes.cs.ucla.edu/WHY/)
 
 * [Causality by Judea Pearl](http://bayes.cs.ucla.edu/BOOK-2K/)
+* [JUDEA PEARL, MADELYN GLYMOUR, NICHOLAS P. JEWELL CAUSAL INFERENCE IN STATISTICS: A PRIMER](http://bayes.cs.ucla.edu/PRIMER/)
 * [Causality Chapter 9 of PATTERNS, PREDICTIONS, AND ACTIONS A story about machine learning by Moritz Hardt and Benjamin Recht](https://mlstory.org/causal.html)
 * [Causal Inference in Practice Chapter 10 of PATTERNS, PREDICTIONS, AND ACTIONS A story about machine learning by Moritz Hardt and Benjamin Recht](https://mlstory.org/causal-practice.html)
 
 * [Regression and Other Stories by Andrew Gelman, Jennifer Hill, and Aki Vehtari](https://avehtari.github.io/ROS-Examples/)
-* [Introduction to Causal Inference by Brady Neal](https://www.bradyneal.com/Introduction_to_Causal_Inference-Sep1_2020-Neal.pdf) 
+* [Introduction to Causal Inference from a Machine Learning Perspective by Brady Neal](https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf) 
 
-* [ Causal Inference: The Mixtape by by Scott Cunningham](https://mixtape.scunning.com/)
+* [Causal Inference: The Mixtape by by Scott Cunningham](https://mixtape.scunning.com/)
 
 ## Notes
 
