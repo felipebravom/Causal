@@ -26,6 +26,8 @@ Pointers to Causal Inference
 ## Notes
 
 * [Causal inference in statistics: An overview by Judea Pearl](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
+* [Potential Outcome and Directed Acyclic Graph Approaches to Causality: Relevance for Empirical Practice in Economics by Guido W. Imbens](https://arxiv.org/pdf/1907.07271.pdf)
+  
   
 
 ## Misc
