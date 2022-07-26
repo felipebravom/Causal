@@ -24,11 +24,11 @@ Pointers to Causal Inference
 
 * [Causal Inference: The Mixtape by by Scott Cunningham](https://mixtape.scunning.com/)
 
-## Notes
+## Notes/Papers
 
 * [Causal inference in statistics: An overview by Judea Pearl](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf)
 * [Potential Outcome and Directed Acyclic Graph Approaches to Causality: Relevance for Empirical Practice in Economics by Guido W. Imbens](https://arxiv.org/pdf/1907.07271.pdf)
-  
+* [Matching methods for causal inference: A review and a look forward](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2943670/)  
   
 
 ## Misc
