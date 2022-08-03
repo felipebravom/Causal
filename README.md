@@ -7,7 +7,8 @@ Pointers to Causal Inference
 
 * [Causal Salad by Richard Mcelreath](https://github.com/rmcelreath/causal_salad_2021)
 * [Causal Inference by Brady Neal](https://www.bradyneal.com/causal-inference-course), [videos](https://www.youtube.com/channel/UCbOJ2eEdvf2wOPrAmA72Gzg)
-* [A Crash Course in Causality: Inferring Causal Effects from Observational Data by Jason A. Roy](https://www.coursera.org/learn/crash-course-in-causality)   
+* [A Crash Course in Causality: Inferring Causal Effects from Observational Data by Jason A. Roy](https://www.coursera.org/learn/crash-course-in-causality)
+* [Gov 2003: Causal Inference with Applications by Matthew Blackwell](https://mattblackwell.github.io/gov2003-f21-site/materials.html)
 
 
 ## Books
