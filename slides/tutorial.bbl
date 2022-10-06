@@ -1,5 +1,12 @@
 \begin{thebibliography}{}
 
+\bibitem[Bickel et~al., 1975]{bickel1975sex}
+Bickel, P.~J., Hammel, E.~A., and O'Connell, J.~W. (1975).
+\newblock Sex bias in graduate admissions: Data from berkeley: Measuring bias
+  is harder than is usually assumed, and the evidence is sometimes contrary to
+  expectation.
+\newblock {\em Science}, 187(4175):398--404.
+
 \bibitem[Hardt and Recht, 2021]{hardt2021patterns}
 Hardt, M. and Recht, B. (2021).
 \newblock Patterns, predictions, and actions: A story about machine learning.

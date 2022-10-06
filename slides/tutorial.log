@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.23)  6 OCT 2022 12:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.23)  6 OCT 2022 14:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1118,7 +1118,22 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <5> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 84.
  [2
 
-] (./tutorial.bbl) [3
+] [3
+
+] [4
+
+] [5
+
+]
+<pics/berkley.png, id=78, 642.4pt x 361.35pt>
+File: pics/berkley.png Graphic file (type png)
+<use pics/berkley.png>
+Package pdftex.def Info: pics/berkley.png  used on input line 164.
+(pdftex.def)             Requested size: 256.95544pt x 144.53743pt.
+
+[6
+
+ <./pics/berkley.png>] (./tutorial.bbl) [7
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write6
@@ -1130,29 +1145,29 @@ LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <5> not available
 \tf@snm=\write8
 \openout8 = `tutorial.snm'.
 
-
-(./tutorial.aux)
+ (./tutorial.aux)
 Package rerunfilecheck Info: File `tutorial.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 26508 strings out of 478287
- 509445 string characters out of 5849289
- 781338 words of memory out of 5000000
- 44143 multiletter control sequences out of 15000+600000
- 487145 words of font info for 62 fonts, out of 8000000 for 9000
+ 26544 strings out of 478287
+ 509874 string characters out of 5849289
+ 781387 words of memory out of 5000000
+ 44165 multiletter control sequences out of 15000+600000
+ 488778 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,122p,405b,552s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helv
-etic/uhvro8a.pfb>
-Output written on tutorial.pdf (3 pages, 50333 bytes).
+pe1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helv
+etic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a
+.pfb>
+Output written on tutorial.pdf (7 pages, 95645 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 133 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
+ 114 words of extra memory for PDF output out of 10000 (max. 10000000)
 
