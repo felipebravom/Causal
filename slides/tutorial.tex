@@ -55,13 +55,29 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\begin{frame}{Introduction to Causal Inference}
+\begin{frame}{Motivation}
 \scriptsize{
 \begin{itemize}
-\item Causal Inference is \cite{hardt2021patterns}
- 
+\item Our starting point is the difference between an observation and an intervention (or action). 
+\item We can answer many questions from passive observation alone.
+\item For example: do 16 year-old drivers have a higher incidence rate of traffic accidents than 18 year-old drivers? 
+\item The answer corresponds to a difference of conditional probabilities.
+
+\item Let random variables $I,A$ correspond to traffic incident rate and driver's age correspondingly:
+\begin{displaymath}
+ P(I|A=16)-P(I|A=18)>0?
+\end{displaymath}
+
+
+\item Both conditional probabilities can be estimated from a large enough sample drawn from the distribution.
+
+\item The answer to the question we asked is solidly in the realm of observational statistics.
+
+\item However, important questions often are not observational in nature.
+
 \end{itemize}
 
+\footnotemark{These slides are mainly based on Chapter 9 of \cite{hardt2021patterns}.}
 
 } 
 
