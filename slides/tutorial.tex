@@ -107,8 +107,7 @@
 \begin{itemize}
 \item We can try to address this problem by holding the number of months of driving experience fixed, while comparing individuals of different ages.
 \item But we quickly run into subtleties.
-\item What if 18 year-olds with two months of driving experience correspond to individuals who are exceptionally cautious and hence—by their natural inclination—not only drive less, but also more cautiously?
-\item What if such individuals predominantly live in regions where traffic conditions differ significantly from those in areas where people feel a greater need to drive at a younger age?
+\item What if 18 year-olds with two months of driving experience predominantly live in regions where traffic conditions differ significantly from those in areas where people feel a greater need to drive at a younger age?
 
 \item  Causal reasoning is a conceptual and technical framework for addressing questions about the effect of hypothetical actions or interventions. 
 \item Once we understand what the effect of an intervention is, we can turn the question around and ask what action plausibly caused an event. 
@@ -132,7 +131,7 @@
 \item The aggregated acceptance rate for these six departments is 44\% for men and 30\% for women.
 
 \item The difference is statistcally significant. 
-
+\item Recognizing that departments have autonomy over who to admit, we can look at the gender bias of each department.
 
 
 \end{itemize}
@@ -143,16 +142,14 @@
 
 \begin{frame}{The limitations of observation}
 \scriptsize{
-\begin{itemize}
-
-\item Recognizing that departments have autonomy over who to admit, we can look at the gender bias of each department.
-
 \begin{figure}[h!]
 	\centering
 	\includegraphics[scale=0.4]{pics/berkley.png}
 \end{figure}
 
-\item Four of the six largest departments show a higher acceptance ratio among women,
+\begin{itemize}
+
+\item Four of the six largest departments show a higher acceptance ratio among women.
 \item The two other departments with higher acceptance rate for men cannot account for the large difference in acceptance rates that we observed in aggregate. 
 \item It appears that the higher acceptance rate for men that we observed in aggregate seems to have reversed at the department level.
 
@@ -164,7 +161,29 @@
 \end{frame}
 
 
+\begin{frame}{The limitations of observation}
+\scriptsize{
 
+\begin{itemize}
+
+\item Such reversals are sometimes called Simpson's paradox. 
+\item Even though mathematically they are no surprise.
+\item It's a fact of conditional probability that there can be events $Y$ (here, acceptance), $A$ (here, female gender taken to be a binary variable) and a random variable $Z$ (here, department choice) such that:
+\begin{enumerate}
+\scriptsize{
+ \item $\mathbb{P}(Y|A)  < \mathbb{P}(Y|\neg A)$
+ \item $\mathbb{P}(Y|A, Z =z)  > \mathbb{P}(Y|\neg A,Z=z)$ for all values $z$ that the random variable $Z$ assumes.}
+\end{enumerate}
+\item Simpson's paradox nonetheless causes discomfort to some.
+
+\item Intuition suggests that a trend which holds for all subpopulations should also hold at the population level.
+
+
+\end{itemize}
+
+} 
+
+\end{frame}
 
 
 
