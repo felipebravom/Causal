@@ -31,7 +31,7 @@ Pointers to Causal Inference
 * [Potential Outcome and Directed Acyclic Graph Approaches to Causality: Relevance for Empirical Practice in Economics by Guido W. Imbens](https://arxiv.org/pdf/1907.07271.pdf)
 * [Matching methods for causal inference: A review and a look forward](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2943670/)  
  * [Causal Machine Learning: A Survey and Open Problems by Jean Kaddour, Aengus Lynch, Qi Liu, Matt J. Kusner, and Ricardo Silva](https://arxiv.org/abs/2206.15475) 
- * [Quasi-Experimental Designs for Causal Inference Yongnam Kim and Peter Steiner](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6086368/)
+ * [Quasi-Experimental Designs for Causal Inference Yongnam by Kim and Peter Steiner](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6086368/)
 
 ## Misc
 
